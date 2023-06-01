@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tp.UserSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-01T21:13:02" hostname="camifio-H110M-H" time="0.093">
+  <properties/>
+  <testcase name="can create a user" classname="tp.UserSpec" time="0.089"/>
+  <testcase name="can create a user with specific name and password" classname="tp.UserSpec" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

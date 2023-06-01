@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tp.TaskSpec" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-06-01T21:13:02" hostname="camifio-H110M-H" time="0.48">
+  <properties/>
+  <testcase name="can create a new task" classname="tp.TaskSpec" time="0.001"/>
+  <testcase name="can create a new task with specific properties" classname="tp.TaskSpec" time="0.429"/>
+  <testcase name="can create a new task and complete" classname="tp.TaskSpec" time="0.006"/>
+  <testcase name="can create a task with subtask" classname="tp.TaskSpec" time="0.026"/>
+  <testcase name="Can create a task with subtasks and complete" classname="tp.TaskSpec" time="0.003"/>
+  <testcase name="can create a task with subtasks and eliminate yours subtasks" classname="tp.TaskSpec" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tp.ProjectSpec" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-06-01T21:13:03" hostname="camifio-H110M-H" time="0.129">
+  <properties/>
+  <testcase name="create a project empty" classname="tp.ProjectSpec" time="0.002"/>
+  <testcase name="can create a project and add tasks" classname="tp.ProjectSpec" time="0.034"/>
+  <testcase name="a project can have many users " classname="tp.ProjectSpec" time="0.013"/>
+  <testcase name="a project can assign task to the users" classname="tp.ProjectSpec" time="0.06"/>
+  <testcase name="project with odd tasks" classname="tp.ProjectSpec" time="0.006"/>
+  <testcase name="can eliminate a user and update tasks" classname="tp.ProjectSpec" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
